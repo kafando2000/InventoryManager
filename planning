@@ -1,0 +1,12 @@
+planning of the Inventory management project
+
+	- requirements
+		User must be able:
+		- to add a product
+		- to remove a product
+		- to sell products
+		- to restock products
+		- to view prouct
+	- objectives
+		- manage the stock for seamless update
+		- build a console app for user to choose a service to run
